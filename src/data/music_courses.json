@@ -1,0 +1,75 @@
+{
+    "courses": [
+      { 
+        "id": 1,
+        "title": "Tabla",
+        "slug": "Tabla",
+        "description": "The Tabla is widely used in classical, devotional, and popular music across India, Pakistan, and other parts of South Asia. ",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "https://media.istockphoto.com/id/481704172/photo/tabla-drums-and-bells-for-dancing.jpg?s=612x612&w=0&k=20&c=auOGG9SCaYqRQDeiufcjBG9x2WKH1WMzX53Mo7uaq5U=" 
+      },
+      {
+        "id": 2,
+        "title": "acoustic guitar",
+        "slug": "acoustic-guitar",
+        "description": "A wider neck, allowing for more finger space, which is important for intricate fingerpicking techniques.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": true,
+        "image": "https://media.istockphoto.com/id/505288924/photo/classical-acoustic-guitar.jpg?s=612x612&w=0&k=20&c=JImWVTt__4bbJf6HTtYYEGXP55eLUDcCYEzn8VX9Cvg="
+      },
+      {
+        "id": 3,
+        "title": "Tibetan cymbals",
+        "slug": "Tibetan-cymbals",
+        "description": "Tingsha cymbals are made from metal alloys and produce a high-pitched, clear ringing tone when struck together.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "https://media.istockphoto.com/id/525530537/photo/tibetan-buddhist-tingsha-cymbals.jpg?s=612x612&w=0&k=20&c=OReNAQDgDO8LzgT40GkMIXxxgAnrD3CFTxWc-b8xLNc=" 
+      },
+      {
+        "id": 4,
+        "title": "Drumming Mastery",
+        "slug": "drumming-mastery",
+        "description": "Master the drums with our comprehensive course covering all skill levels.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": true,
+        "image": "https://media.istockphoto.com/id/578265826/photo/clarinet-classical-top-view.jpg?s=612x612&w=0&k=20&c=0QxpVGO3nZ-oGyUDBezRSQxIB0MEzy-kgegcnrs7y34="
+      },
+      {
+        "id": 5,
+        "title": "Traditional African Drum",
+        "slug": "jazz-improvisation",
+        "description": "The traditional African drum is a vital instrument in African culture, used for communication, rituals, and ceremonies.",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": true,
+        "image": "https://media.istockphoto.com/id/1742475102/photo/african-djembe-drum-isolated-on-white-background-with-clipping-path.jpg?s=612x612&w=0&k=20&c=3gN-EaLalLPRJTJQuonXN99WxISeaJxKynzBT0-wH_I="
+      },
+      {
+        "id": 6,
+        "title": "African Djembe Drum",
+        "slug": "music-production-fundamentals",
+        "description": "The African djembe drum is a traditional hand drum known for its deep, resonant tones and vibrant rhythms.",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "https://media.istockphoto.com/id/627202168/photo/african-djembe-drum.jpg?s=612x612&w=0&k=20&c=0TlRFJjX_BVr_z2GmY1_W11xIo9ftWlK5vROFejE5ok="
+      },
+      {
+        "id": 9,
+        "title": "Veena",
+        "slug": "Veena",
+        "description": "The veena is a traditional Indian string instrument known for its rich, melodious sound, often used in classical Carnatic and Hindustani music.",
+        "price": 179.99,
+        "instructor": "Grace Lee",
+        "isFeatured": true,
+        "image": "https://media.istockphoto.com/id/1168690297/photo/veena.jpg?s=612x612&w=0&k=20&c=TOpUTv2qE0xYqQ6Ld9MLJLAJZWMTY3bY-S72R8tB4Ao="
+      }
+    ]
+  }
+  
